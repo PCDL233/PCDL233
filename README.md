@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img   align="left" src="https://github-readme-stats.vercel.app/api?username=PCDL233&locale=en&line_height=33&show_icons=true&hide=issues,contribs&theme=outrun&rank_icon=percentile&count_private=true"/>
-    <img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PCDL233&locale=en&line_height=33&theme=&langs_count=5&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=PCDL233&locale=en&line_height=33&show_icons=true&hide=issues,contribs&theme=outrun&rank_icon=percentile&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PCDL233&locale=en&line_height=33&theme=&langs_count=5&layout=compact"/>
 </div>
 
 <p align="center"> 
