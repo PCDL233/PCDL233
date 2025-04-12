@@ -2,7 +2,7 @@
 <div>
 <h3 align="center">A passionate and slightly chuunibyou teenager. 
     <a href="https://wakatime.com/@waka_3a572452-de4f-4c4e-9c82-188248b28295">
-        <img align="center" src="https://wakatime.com/badge/user/waka_5aa13171-5220-4e35-b958-5271fad1a96a.svg" >
+        <img align="center" src="https://wakatime.com/badge/user/waka_49313587-996d-414b-9f88-2c0aa9a5e515.svg" >
     </a>
 </h3>
 <p align="center">
