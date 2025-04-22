@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PCDL233</h1>
 <div>
 <h3 align="center">A passionate and slightly chuunibyou teenager. 
-<a href="https://wakatime.com/badge/github/PCDL233/cloud-nest"><img src="https://wakatime.com/badge/github/PCDL233/cloud-nest.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/@0d7e361f-3c9e-414f-9aea-093f9d5fecef"><img src="https://wakatime.com/badge/user/0d7e361f-3c9e-414f-9aea-093f9d5fecef.svg" alt="Total time coded since Apr 11 2025" /></a>
 </h3>
 <p align="center">
 </p>
